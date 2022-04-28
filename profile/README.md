@@ -4,3 +4,5 @@ Puara is a framework for building and deploy new media installations and New Int
 
 Instrument designers (digital luthiers) can use the firmware modules to create their own controllers.
 These controllers generate gestural data that can be sent to any computer, including the [Media processing Unit (MPU)](https://github.com/Puara/MPU), designed for performance and mew media deployment.
+
+*Puara* means "to tie" or "connect" in [Old Tupi](https://en.wikipedia.org/wiki/Tupi_language)
