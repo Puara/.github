@@ -1,3 +1,1 @@
-# Puara
-
-Puara is a framework for building and deploy new media instalations and New Interfaces for Music Expression (NIME).
+This repo contains the profile info for the Puara framework.
