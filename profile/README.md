@@ -16,7 +16,7 @@ The repositories in the puara framework can be rougly separated into 3 categorie
     - [puara-controller](https://github.com/Puara/puara-controller): a utility program that can convert game controller data into [OSC](https://opensoundcontrol.stanford.edu/) messages.
     - [puara-serial-manager](https://github.com/Puara/puara-serial-manager): a command line tool to interface with Puara-based instruments.
 - AMI/DMI projects:
-    - [Guitar AMI MPU](https://github.com/Puara/MPU): This Media Processing Unit (MPU) is a full media system based on the Raspbery Pi platform and supporting all Puara features.
+    - [Guitar AMI MPU](https://github.com/Puara/GuitarAMI_MPU): This Media Processing Unit (MPU) is a full media system based on the Raspbery Pi platform and supporting all Puara features.
     - [Guitar AMI Module](https://github.com/Puara/GuitarAMI): an Augmented Musical Instrument (AMI) using an acoustic guitar.
     - [T-Stick](https://github.com/Puara/T-Stick): A popular Digital Musical Instrument (DMI), in development since 2006.
     - [M5StickC](https://shop.m5stack.com/products/m5stickc-plus-esp32-pico-mini-iot-development-kit)-based instruments/repos:
