@@ -1,0 +1,23 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  a framework for building and deploy new media
+  installations and New Interfaces for Music Expression
+  (NIME)
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Eduardo
+    family-names: A. L. Meneses
+    email: eduardo@edumeneses.com
+    affiliation: Société des Arts Technologiques (SAT)
+repository-code: 'https://github.com/Puara'
+url: 'https://github.com/Puara'
+abstract: >-
+  Puara is a framework for building and deploy new media
+  installations and New Interfaces for Music Expression
+  (NIME)
